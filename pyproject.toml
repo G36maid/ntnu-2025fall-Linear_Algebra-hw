@@ -1,0 +1,6 @@
+[project]
+name = "linear-algebra-hw"
+version = "0.1.0"
+dependencies = [
+    "sympy"
+]
