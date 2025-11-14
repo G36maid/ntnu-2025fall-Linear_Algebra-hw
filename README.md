@@ -30,24 +30,14 @@ The repository follows a simple, standardized structure to keep everything organ
 ## Notes Index
 Here are links to the current notes (will be updated as content is added):
 
-:::
-- [00 - Course Introduction and Vectors](notes/00-course-intro-vectors.md)
-- [01 - Systems of Linear Equations](notes/01-linear-equations.md)
-- [02 - Matrices and Matrix Operations](notes/02-matrices.md)
-- [03 - Vector Spaces and Subspaces](notes/03-vector-spaces.md)
-- [04 - Linear Independence and Bases](notes/04-independence-bases.md)
-- [05 - Eigenvalues and Eigenvectors](notes/05-eigenvalues.md)
-- [06 - Inner Product Spaces](notes/06-inner-products.md)
-- [07 - Diagonalization and Applications](notes/07-diagonalization.md)
-- [08 - Singular Value Decomposition (SVD)](notes/08-svd.md)
-- [09 - Advanced Topics (e.g., Jordan Form)](notes/09-advanced-topics.md)
-:::
-*(Note: These are placeholders. Create files as you progress through the course.)*
+- [Homework 1-1](notes/01-homework-1-1.md)
+- [Homework 2](notes/02-homework-2.md)
+- [Homework 3](notes/03-homework-3.md)
 
 ## Homework
-- [Homework 1: Vectors and Linear Combinations](homework/hw01-vectors.md)
-- [Homework 2: Matrix Equations](homework/hw02-matrices.md)
-*(Add more as assignments are released.)*
+- [Homework 1](homework/HW1/)
+- [Homework 2](homework/HW2/)
+- [Homework 3](homework/HW3/)
 
 ## Contributing
 - Follow GitHub Flavored Markdown for all files.

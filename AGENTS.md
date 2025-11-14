@@ -4,6 +4,10 @@ This document outlines the essential guidelines for agents operating within this
 
 ## Build/Lint/Test Commands
 - **Verification**: Ensure markdown structure, link validity, and naming conventions are consistent.
+- **Python Verification Scripts**: When running Python-based verification scripts (e.g., `verify_hw*.py`), use the `uv` tool for all operations.
+  - Create the virtual environment: `uv venv`
+  - Install dependencies: `uv pip install <package-name>`
+  - Run the script: `uv run <script-name>.py`
 - **No Traditional Builds**: This project does not have traditional code build/lint/test commands.
 
 ## Code Style Guidelines
