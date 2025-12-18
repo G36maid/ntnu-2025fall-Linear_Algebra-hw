@@ -30,9 +30,12 @@ The repository follows a simple, standardized structure to keep everything organ
 ## Notes Index
 Here are links to the current notes (will be updated as content is added):
 
-- [Homework 1-1](notes/01-homework-1-1.md)
-- [Homework 2](notes/02-homework-2.md)
-- [Homework 3](notes/03-homework-3.md)
+- [Chapter 1: Matrices, Vectors, and Systems](notes/01-matrices-vectors-systems.md)
+- [Chapter 2: Matrices and Linear Transformations](notes/02-matrices-linear-transformations.md)
+- [Chapter 3: Determinants](notes/03-determinants.md)
+- [Chapter 4: Subspaces and their Properties](notes/04-subspaces.md)
+- [Chapter 5: Eigenvalues, Eigenvectors, and Diagonalization](notes/05-eigenvalues-eigenvectors.md)
+- [Chapter 7: Orthogonality](notes/07-orthogonality.md)
 
 ## Homework
 - [Homework 1](homework/HW1/)
